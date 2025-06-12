@@ -5,7 +5,7 @@ const workExperience = [
   {
     title: "Medycyna Praktyczna Sp. z.o.o",
     description:
-      "I have successfully contributed to and enhanced two projects: CityCard and RailwayHub. In the CityCard project, I leveraged the SkiaSharp library to implement dynamic card layout editing, providing users with a real-time editing experience. Additionally, I introduced a subaccount feature for parent accounts. ",
+      "Developed multiple medical calculators by transforming complex medical formulas into interactive React components for mp.pl/kalkulatory. Built reusable UI components for premium.mp.pl using Next.js and the shadcn/ui library. Documented components and their variations in Storybook, and managed applications and shared libraries within an Nx monorepo for scalable development. ",
     startDate: "November 2023",
     endDate: "now",
   },
